@@ -21,6 +21,14 @@ that the large deployment of libspotify means that the library will continue to
 work with the Spotify service for a long time into the future.
 
 
+## Install: OS X
+
+To install libspotify on OS X:
+
+```
+brew install ./libspotify.rb
+```
+
 ## Downloads
 
 These are the latest available releases for each CPU architecture, all released
